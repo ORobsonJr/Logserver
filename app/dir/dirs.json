@@ -1,0 +1,19 @@
+{
+    "database": {
+        "root": "Logserver/app/database/",
+        "_main_": "Logserver/app/database/action"
+    },
+    "api": {
+        "root": "Logserver/app/API/",
+        "documentation_index": "/Logserver/app/API/documentation.html"
+
+    },
+    "authentication": {
+        "root": "app/auth/",
+        "encrypted_file": "app/auth/data.config.aes",
+        "decrypted_file": "app/auth/data.config",
+        "_main_": "Logserver/app/auth/VARS.py"
+    }
+
+
+}
