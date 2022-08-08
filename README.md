@@ -22,7 +22,7 @@
 <span class="emphasized">sudo python3.py main.py -i</span> 
 
 em modo <strong>sudo</strong>, pois o mesmo irá fazer a validação de pacotes instalados no sistema e instalar dependências</p>
-Isso será necessário somente pela primeira vez ou caso você esquema a chave secreta
+Isso será necessário somente pela primeira vez ou caso você esqueça a chave secreta
 
 <h3>Inicialização do servidor:</h3>
 <span class="emphasized">sudo python3.py main.py runserver</span> 
