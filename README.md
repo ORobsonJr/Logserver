@@ -31,7 +31,7 @@ Isso será necessário somente pela primeira vez ou caso você esqueça a chave 
 <p>Você pode utilizar a documentação padrão do FastApi como:
 
  <span class="emphasized">  
-   <a href="http://localhost:8000/documentation)">http://localhost:8000/documentation</a>
+   <a href="http://localhost:8000/documentation)">http://localhost:8000/docs</a>
   </span>
 
   
