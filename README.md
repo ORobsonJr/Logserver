@@ -6,10 +6,15 @@
    <li>Git</li>
    <li>Python3</li>
    <li>FastApi</li>
-   <li>MySql + Querys</li>
+   <li>MySql</li>
+  <li>Microservices</li>
+  <li>Criptografia AES</li>
    <li>Batch</li>
 
   </ul>
+  
+  <h2>Sistemas suportados</h2>
+  <p>Linux</p>
   
   <h2>Utilização e suas funcionalidades</h2>
 <p><h3>Instalação:</h3>
@@ -29,9 +34,6 @@ Isso será necessário somente pela primeira vez ou caso você esquema a chave s
    <a href="http://localhost:8000/documentation)">http://localhost:8000/documentation</a>
   </span>
 
-  
-ou pode utilizar a API própria do programa como:
-<span class="emphasized">http://localhost:8000/documentation</span>
   
 
 </p>
